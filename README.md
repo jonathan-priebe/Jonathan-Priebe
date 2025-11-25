@@ -43,18 +43,18 @@ Welcome to my GitHub Page! I'm passionate about secure software development, aut
     <td>
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=jonathan-priebe&hide=issues&show_icons=true&theme=dark&hide_border=true"
+          srcset="https://github-readme-stats-2-murex-one.vercel.app/api?username=jonathan-priebe&hide=issues&show_icons=true&theme=dark&hide_border=true"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=jonathan-priebe&show_icons=true&hide_border=true"
+          srcset="https://github-readme-stats-2-murex-one.vercel.app/api?username=jonathan-priebe&show_icons=true&hide_border=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=jonathan-priebe&show_icons=true&hide_border=true" />
+        <img src="https://github-readme-stats-2-murex-one.vercel.app/api?username=jonathan-priebe&show_icons=true&hide_border=true" />
       </picture>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-priebe&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+      <img src="https://github-readme-stats-2-murex-one.vercel.app/api/top-langs/?username=jonathan-priebe&theme=dark&show_icons=true&hide_border=true&layout=compact" />
     </td>
   </tr>
 </table>
