@@ -70,7 +70,7 @@ Welcome to my GitHub Page! I'm passionate about secure software development, aut
 
 ---
 
-## 📫 Contact
+## 📫 Contact 
 
 - ✉️ jonathan.priebe@mind-gaming.de 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jonathan-priebe25) 
